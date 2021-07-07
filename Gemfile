@@ -15,3 +15,4 @@ group :test do
       gem 'capybara'
       gem 'rack-test'
     end
+gem "activerecord", "~> 5.2.3"
